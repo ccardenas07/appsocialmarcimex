@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>marcimex</title>
+    <link>http://blogmarcimex.com/</link>
+    <description />
+    <language>en-us</language>
+    <managingEditor>dragjohn@hotmail.com</managingEditor>
+    <copyright>2014</copyright>
+    <item>
+      <title>Marcimex</title>
+      <pubDate>Mon, 2 Jun 2014 14:09:39 -0500</pubDate>
+      <link>http://blogmarcimex.com/</link>
+      <category>Información</category>
+      <description><![CDATA[Est es una web para Marcimex]]></description>
+    </item>
+  </channel>
+</rss>
